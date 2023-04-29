@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Timezone Field for Advanced Custom Fields
-Plugin URI: https://caleb-smith.dev
+Plugin URI: https://github.com/WP-Catalyst/acf-timezone
 Description: An Advanced Custom Fields plugin that allows you to pick from a list of Timezones.
 Version: 1.0.0
 Author: WP Catalyst
